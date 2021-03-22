@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[1]:
-
-
 #draw_word jolly using turtle libraries
 import turtle
 wn = turtle.Screen()
@@ -89,10 +85,3 @@ t.write("JOKER", align="CENTER", font=("Dades", 40))
 t.penup()
 t.hideturtle()
 wn.exitonclick()
-
-
-# In[ ]:
-
-
-
-
